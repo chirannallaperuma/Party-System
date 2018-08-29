@@ -34,7 +34,7 @@ if (isset($_POST['logout'])){
 			<li><a href="signup.php">Register</a></li>
 			<li><a href="user/mypro.php">My Profile</a></li>
 			<li><a href="service/help.html">Help</a></li>
-			<li><a href="service/help.html">Help</a></li>
+			
 			
 		</ul>
 		</div>
